@@ -17,5 +17,5 @@ Below is a graph of Avg Points Scored vs Draft Pick. Upon Visual inspection, one
 ![image](https://user-images.githubusercontent.com/60550835/114644563-bd09b900-9ca5-11eb-97ea-2d3cc46718d1.png)
 Below is a graph of Avg Points Scored vs Draft Pick. Upon Visual inspection, one can tell that the entire plot is not perfectly linear. However, the top 50 players make a strong trend with average points scored. 
 ![image](https://user-images.githubusercontent.com/60550835/114644581-c4c95d80-9ca5-11eb-9cdb-34254c57f71b.png)
-Below is a graph of Avg Points Scored vs Draft Pick. Upon Visual inspection, one can tell that the entire plot is not perfectly linear. However, the top 50 players make a strong trend with average points scored. 
+Below is a table showing the tendencies of draft pick and position.
 ![image](https://user-images.githubusercontent.com/60550835/114644601-cd219880-9ca5-11eb-84d1-33627edd1368.png)
