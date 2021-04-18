@@ -1,17 +1,7 @@
-# We set out to see how well top draft picks really do throughout their career in the NBA. 
-How much, if at all, does draft slot determine the kind of career that a NBA player will have?
-Did certain draft slots go to certain positions?
-Did certain positions have higher scoring averages?
-Have trends changed with the passing of time?
-Is there a relationship between higher scorers and draft pick?
-Can we rule out other factors to have a better feel for this relationship?
-Our data was two spreadsheets that were from Kaggle
-One for draft pick data
-One for player data
-We merged both spreadsheets together in a pandas dataframe
-The data was then grouped by player
-The data was sorted by total number of points
+# Correlations between NBA Draft Pick and Career
 ![image](https://user-images.githubusercontent.com/60550835/114644411-74520000-9ca5-11eb-987a-674c9918a80e.png)
+# Project Description
+The goal of this project were to idetify trends with NBA Draft Pick and the success of players in that Draft Pick. Two data sets from Kaggle were used. One data set contained player stats and another data set contained the Draft Pick # of each player. Python Pandas was used to merge these datasets and Python Matplot was used to graph different relationships. 
 
 ![image](https://user-images.githubusercontent.com/60550835/114644361-5daba900-9ca5-11eb-9c84-b940f4374272.png)
 
