@@ -2,13 +2,6 @@
 ![image](https://user-images.githubusercontent.com/60550835/114644411-74520000-9ca5-11eb-987a-674c9918a80e.png)
 # Project Description
 The goal of this project were to idetify trends with NBA Draft Pick and the success of players in that Draft Pick. Two data sets from Kaggle were used. One data set contained player stats and another data set contained the Draft Pick # of each player. Python Pandas was used to merge these datasets and Python Matplot was used to graph different relationships. 
-
-![image](https://user-images.githubusercontent.com/60550835/114644361-5daba900-9ca5-11eb-9c84-b940f4374272.png)
-
-![image](https://user-images.githubusercontent.com/60550835/114644341-51bfe700-9ca5-11eb-9fae-263e30e9f065.png)
-
-![image](https://user-images.githubusercontent.com/60550835/114639196-351eb180-9c9b-11eb-9c7b-296d696d8bfc.png)
-
 ![image](https://user-images.githubusercontent.com/60550835/114644457-8af85700-9ca5-11eb-873c-6887b40c034a.png)
 ![image](https://user-images.githubusercontent.com/60550835/114644483-98addc80-9ca5-11eb-8763-52fd201e6537.png)
 ![image](https://user-images.githubusercontent.com/60550835/114644499-a2374480-9ca5-11eb-8627-241aba1b8f6d.png)
