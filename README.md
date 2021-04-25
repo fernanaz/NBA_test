@@ -2,7 +2,16 @@
 ![image](https://user-images.githubusercontent.com/60550835/115162218-4804fd80-a070-11eb-8a50-4f52a3cc61c4.png)
 # Project Description
 The goal of this project were to idetify trends with NBA Draft Pick and the success of players in that Draft Pick. Two data sets from Kaggle were used. One data set contained player stats and another data set contained the Draft Pick # of each player. Python Pandas was used to merge these datasets and Python Matplot was used to graph different relationships. 
+#Tools used
+1. Python(Data cleaning and Visualization)
+   - Pandas Library
+   - Matplot
+2. HTML(Website Development)
+3. Javascript
+4. Github 
 
+#Steps
+1.
 Below is a graph of Avg Points Scored vs Draft Pick. Upon Visual inspection, one can tell that the entire plot is not perfectly linear. However, the top 50 players make a strong trend with average points scored. 
 
 ![image](https://user-images.githubusercontent.com/60550835/114644457-8af85700-9ca5-11eb-873c-6887b40c034a.png)
