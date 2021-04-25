@@ -1,4 +1,6 @@
 ### Correlations between NBA Draft Pick and Career
+
+
 ![image](https://user-images.githubusercontent.com/60550835/115162218-4804fd80-a070-11eb-8a50-4f52a3cc61c4.png)
 # Project Description
 The goal of this project were to idetify trends with NBA Draft Pick and the success of players in that Draft Pick. Two data sets from Kaggle were used. One data set contained player stats and another data set contained the Draft Pick # of each player. Python Pandas was used to merge these datasets and Python Matplot was used to graph different relationships. 
