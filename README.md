@@ -18,6 +18,7 @@ The goal of this project were to idetify trends with NBA Draft Pick and the succ
 2. Merged and cleaned data with Pandas Library in Python
 3. Plotted different relationships with Matplot Library in Python
 
+## Analysis
 Below is a graph of Avg Points Scored vs Draft Pick. Upon Visual inspection, one can tell that the entire plot is not perfectly linear. However, the top 50 players make a strong trend with average points scored. 
 
 ![image](https://user-images.githubusercontent.com/60550835/114644457-8af85700-9ca5-11eb-873c-6887b40c034a.png)
