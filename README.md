@@ -1,4 +1,4 @@
-### Correlations between NBA Draft Pick and Career
+# Correlations between NBA Draft Pick and Career
 
 
 ![image](https://user-images.githubusercontent.com/60550835/115162218-4804fd80-a070-11eb-8a50-4f52a3cc61c4.png)
