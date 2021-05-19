@@ -61,4 +61,4 @@ Below is a table showing the tendencies of draft pick and position.
 ![image](https://user-images.githubusercontent.com/60550835/114644601-cd219880-9ca5-11eb-84d1-33627edd1368.png)
 
 # cocnclusions 
-A strong linear trend was absorbed among the top 50 players for Assists and points scored.
+A strong linear trend was absorbed among the top 50 players for Assists and points scored. Top draft picks were designated for certain positions, which might lead to be self full-filling prophecy. 
